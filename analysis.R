@@ -1,3 +1,5 @@
+renv::restore()
+
 library(here)
 library(readr)
 
